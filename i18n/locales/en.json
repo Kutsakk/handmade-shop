@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "cart": "Cart",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tag": "Handmade with love",
+    "title": "Unique Creations",
+    "description": "Every product tells a story. Discover handmade jewelry, accessories and decoratives made with passion.",
+    "button": "View Catalog"
+  },
+  "featured": {
+    "tag": "Selected",
+    "title": "New Arrivals"
+  },
+  "footer": {
+    "description": "Unique handmade creations made with love and care. Every piece tells its own story.",
+    "shop": "Shop",
+    "company": "Company",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "madeWith": "Made with love in Greece"
+  },
+  "cart": {
+    "add": "Add to cart",
+    "added": "Added to cart",
+    "empty": "Your cart is empty",
+    "browse": "Browse catalog",
+    "total": "Total",
+    "clear": "Clear cart",
+    "checkout": "Checkout"
+  },
+  "catalog": {
+    "all": "All",
+    "subtitle": "Discover our collection of handmade products",
+    "empty": "No products found in this category"
+  },
+  "categories": {
+    "decor": "Decor",
+    "furniture": "Furniture",
+    "more": "More",
+    "slider": {
+      "title1": "Online Market",
+      "sub1": "Exclusive creations",
+      "title2": "Individual Orders",
+      "sub2": "Chests by individual order",
+      "title3": "Gifts & Exclusives",
+      "sub3": "Unique selections"
+    }
+  },
+  "product": {
+    "notFound": "Product not found",
+    "backToCatalog": "Back to catalog",
+    "inStock": "In stock",
+    "ask": "Ask us",
+    "related": "Related Products",
+    "features": {
+      "handmade": "100% Handmade",
+      "shipping": "Free shipping",
+      "natural": "Natural materials",
+      "quality": "Quality guarantee"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our story",
+    "storyTag": "The beginning",
+    "storyTitle": "Creating with passion since 2015",
+    "storyText1": "We started as a small workshop in Athens, with a vision to create unique handmade objects that combine tradition with contemporary aesthetics.",
+    "storyText2": "Every piece we create is unique, handcrafted with natural materials and love. We believe that handmade objects carry a warmth that cannot be reproduced.",
+    "valuesTag": "What makes us different",
+    "valuesTitle": "Our Values",
+    "value1Title": "Handmade Art",
+    "value1Text": "Every creation is made entirely by hand, with attention to every detail.",
+    "value2Title": "Natural Materials",
+    "value2Text": "We exclusively use natural and sustainable materials in our creations.",
+    "value3Title": "Uniqueness",
+    "value3Text": "Every piece is unique. No two products in our collection are the same.",
+    "ctaTitle": "Ready to discover?",
+    "ctaText": "Explore our collection or contact us for a custom order.",
+    "ctaShop": "Catalog",
+    "ctaContact": "Contact"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Want to learn more or make a special order? Send us a message.",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Working hours",
+    "hoursText": "Mon - Fri: 09:00 - 18:00",
+    "error": "Error",
+    "fillAll": "Please fill in all required fields",
+    "invalidEmail": "Please enter a valid email",
+    "successTitle": "Message sent!",
+    "successText": "We will get back to you soon.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is your message about?",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "send": "Send",
+      "sending": "Sending..."
+    }
+  },
+  "error": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "home": "Back to home"
+  }
+}
